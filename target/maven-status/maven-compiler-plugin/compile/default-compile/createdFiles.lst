@@ -1,0 +1,13 @@
+ma\ginf\Controller\EleveController.class
+ma\ginf\Repository\Repository.class
+ma\ginf\Service\FiliereService.class
+ma\ginf\Controller\FiliereController.class
+ma\ginf\Model\Filieres.class
+ma\ginf\Repository\EleveRepository.class
+ma\ginf\Repository\FiliereRepository.class
+ma\ginf\Model\Eleves.class
+ma\ginf\Model\Eleves_.class
+ma\ginf\HelloController.class
+ma\ginf\Model\Filieres_.class
+ma\ginf\Service\Service.class
+ma\ginf\Service\EleveService.class
